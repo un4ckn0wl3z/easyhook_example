@@ -1,0 +1,15 @@
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\bin\Debug\EasyHook32.dll
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\bin\Debug\EasyHook32Svc.exe
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\bin\Debug\EasyHook64.dll
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\bin\Debug\EasyHook64Svc.exe
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\bin\Debug\EasyLoad32.dll
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\bin\Debug\EasyLoad64.dll
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\bin\Debug\FileMonitor_RemoteHook.dll.config
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\bin\Debug\FileMonitor_RemoteHook.dll
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\bin\Debug\FileMonitor_RemoteHook.pdb
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\bin\Debug\EasyHook.dll
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\bin\Debug\EasyHook.xml
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\obj\Debug\FileMonitor_RemoteHook.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\obj\Debug\FileMonitor_RemoteHook.csproj.CopyComplete
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\obj\Debug\FileMonitor_RemoteHook.dll
+C:\Users\anuwat\source\repos\FileMonitor_RemoteHook\FileMonitor_RemoteHook\obj\Debug\FileMonitor_RemoteHook.pdb
